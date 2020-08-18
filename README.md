@@ -1,4 +1,4 @@
 # task landing page
 
-# As simple and as pixel perfect as possible. 
+As simple and as pixel perfect as possible. 
 
